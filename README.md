@@ -22,11 +22,7 @@
 ## 📦 Requirements
 
 * Python 3.6 or higher
-* OpenAI API key (for Google Gemini API)
-* Python packages:
-
-  * `openai`
-  * `python-dotenv`([GitHub][1])
+* Gemini API key
 
 ## ⚙️ Setup
 
@@ -50,17 +46,16 @@
 3. **Install Required Packages**:
 
    ```bash
-   pip install openai python-dotenv
+   pip install requirements.txt
    ```
-
 
 
 ## 🧪 Usage
 
-Run the TeaCoder assistant using:([GitHub][1])
+Run the TeaCoder assistant using:
 
 ```bash
-python try.py
+python cursor_agent.py
 ```
 
 ### Demo
