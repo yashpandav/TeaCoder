@@ -1,6 +1,6 @@
 # TeaCoder 🧠
 
-**TeaCoder** is a terminal-based AI coding assistant designed to streamline full-stack project development. Leveraging AI capabilities, it assists developers in generating boilerplate code, managing project structures, and executing commands directly from the terminal.([GitHub][1])
+**TeaCoder** is a terminal-based AI coding assistant designed to streamline full-stack project development. Leveraging AI capabilities, it assists developers in generating boilerplate code, managing project structures, and executing commands directly from the terminal.
 
 ## 🚀 Features
 
@@ -9,7 +9,7 @@
 * **Code Generation**: Generate code snippets or entire files for various components, including React components, Express routes, and more.
 * **Command Execution**: Run shell commands like `npm install`, `pip install`, and others directly through TeaCoder.
 * **Contextual Understanding**: Analyze existing project files to provide context-aware suggestions and modifications.
-* **File Operations**: Read, write, and modify files as needed to implement requested features or changes.([GitHub][1])
+* **File Operations**: Read, write, and modify files as needed to implement requested features or changes.
 
 ## 🛠️ Tools Utilized
 
@@ -17,7 +17,7 @@
 * **read\_file**: Reads and analyzes file contents.
 * **write\_file**: Creates or updates files with specified content.
 * **scan\_directory**: Lists files in a directory to understand project structure.
-* **analyze\_code**: Analyzes existing code to make informed modifications.([GitHub][1])
+* **analyze\_code**: Analyzes existing code to make informed modifications.
 
 ## 📦 Requirements
 
